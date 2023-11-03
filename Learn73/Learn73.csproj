@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+<!--        <ImplicitUsings>enable</ImplicitUsings>-->
+<!--        <Nullable>enable</Nullable>-->
+        <LangVersion>7.3</LangVersion>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <UserSecretsId>0151dddb-164c-4078-9677-54bd13f3fffd</UserSecretsId>
+    </PropertyGroup>
+</Project>
